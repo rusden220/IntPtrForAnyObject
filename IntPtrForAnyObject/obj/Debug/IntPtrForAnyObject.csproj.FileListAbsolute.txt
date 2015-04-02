@@ -1,0 +1,6 @@
+D:\Den\Programming\C#\IntPtrForAnyObject\IntPtrForAnyObject\bin\Debug\IntPtrForAnyObject.exe.config
+D:\Den\Programming\C#\IntPtrForAnyObject\IntPtrForAnyObject\bin\Debug\IntPtrForAnyObject.exe
+D:\Den\Programming\C#\IntPtrForAnyObject\IntPtrForAnyObject\bin\Debug\IntPtrForAnyObject.pdb
+D:\Den\Programming\C#\IntPtrForAnyObject\IntPtrForAnyObject\obj\Debug\IntPtrForAnyObject.csprojResolveAssemblyReference.cache
+D:\Den\Programming\C#\IntPtrForAnyObject\IntPtrForAnyObject\obj\Debug\IntPtrForAnyObject.exe
+D:\Den\Programming\C#\IntPtrForAnyObject\IntPtrForAnyObject\obj\Debug\IntPtrForAnyObject.pdb
