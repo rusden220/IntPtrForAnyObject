@@ -33,13 +33,13 @@ namespace IntPtrForAnyObject
 			Console.WriteLine("memory damp");
 			for (int i = 0; i < len; i++)
 			{
-				if (array[i] == intPtr.ToInt32())//if using reference type
+				if (array[i] == intPtr.ToInt32())//if use the reference type
 				{
 					Console.ForegroundColor = ConsoleColor.Red;
 					Console.WriteLine(i.ToString() + " " + array[i].ToString());
 					Console.ForegroundColor = ConsoleColor.Gray;
 				}
-				else if (array[i] == (int)_field._int)//if using value type
+				else if (array[i] == (int)_field._int)//if use the value type
 				{
 					Console.ForegroundColor = ConsoleColor.Green;
 					Console.WriteLine(i.ToString() + " " + array[i].ToString());

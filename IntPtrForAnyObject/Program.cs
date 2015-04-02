@@ -14,11 +14,11 @@ namespace IntPtrForAnyObject
 			{
 				int* x = (int*)pointer.IntPtr.ToInt32();
 				x++;
-				x++;//double increment because type of variable is a reference type
+				x++;//double increment because type of the variable is the reference type
 				Console.WriteLine((char)*x);
 				int num = int.MaxValue;
 				int* y = (int *)pointer.GetPointer(num);
-				y++;//one increment because type of variable is a value type
+				y++;//one increment because type of the variable is the value type
 				Console.WriteLine(*y);
 			}
 
